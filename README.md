@@ -31,7 +31,7 @@ Nervos Common Knowledge Base (CKB), a permissionless public blockchain and base 
 
 See a more technical walkthrough of the [Common Knowledge Base](www.nervos.org/commonknowledgebase) 
 
-Our Testnet is LIVE! Please see [here] (https://docs.nervos.org/getting-started/testnet/) on how to run a node and participate in the network
+Our Testnet is LIVE! Please see [here](https://docs.nervos.org/getting-started/testnet/) on how to run a node and participate in the network
 
 
 ---
