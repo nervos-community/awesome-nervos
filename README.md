@@ -1,6 +1,6 @@
 # How to Contribute
 
-The easiest way is to go to https://github.com/nervos-community/awesome-nervos and click on the "pen" icon in the upper right corner. Make the changes to the file and follow the instructions to create a pull request.
+The easiest way is to click on the "pen" icon in the upper right corner. Make the changes to the file and follow the instructions to create a pull request.
 
 Join our [Nervos Buidl Community](https://t.me/joinchat/IpZ4EBYx6PP1-FgIG1EVUw) on Telegram to get more Friends.
 
@@ -68,7 +68,6 @@ Our Testnet is LIVE! Please see [here](https://docs.nervos.org/getting-started/t
 - [Twitter](https://twitter.com/nervosnetwork)
 - [Reddit](https://www.reddit.com/r/NervosNetwork/)
 - [Medium](https://medium.com/nervosnetwork)
-- [RocketChat](https://chat.makerdao.com/)
 - [Telegram](https://t.me/nervosnetwork)
 - [Telegram 中文](https://t.me/NervosNetworkcn)
 - [YouTube](https://www.youtube.com/channel/UCONuJGdMzUY0Y6jrPBOzH7A)
