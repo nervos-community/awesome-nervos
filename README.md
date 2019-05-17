@@ -71,6 +71,15 @@ Our Testnet is LIVE! Please see [here](https://docs.nervos.org/getting-started/t
 
 
 ## Beginner Guides
+[Nervos CKB in a Nutshell](Nervos CKB in a Nutshell)
+[Nervos Network Blockchain Startup Secures $28 Mln From Sequoia China, Polychain Capital](https://cointelegraph.com/news/nervos-network-blockchain-startup-secures-28-mln-from-sequoia-china-polychain-capital)
+[https://hacked.com/ico-analysis-nervos/](https://hacked.com/ico-analysis-nervos/)
+[Nervos Network raises $28 million to make enterprise blockchain networks](https://venturebeat.com/2018/07/18/nervos-network-raises-28-million-to-make-enterprise-blockchain-networks/)
+[Nervos Review and Rating](https://cryptodigestnews.com/nervos-review-and-rating-73d15b7300c9)
+[A Deep Dive into Nervos' Layered Design](https://www.youtube.com/watch?v=5I24G-jNutw)
+[NERVOS | BlockchainBrad Interview | NEW Crypto Economy | SOV Smart Contract Blockchain Platform](https://www.youtube.com/watch?v=HWPlFd2siOo&t=1704s)
+
+
 
 
 ## Tutorials
