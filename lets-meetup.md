@@ -131,7 +131,7 @@ Here is a non-exhaustive list of suggestions for the different types of Nervos M
 
 ## **Marketing & Promotion Guide**
 
-As soon as you have a chosen venue and secured date, make sure to register and promote the meetup as soon as possible so that others will be aware of it. Share the newly created meetup with your network as well as the MakerDAO Community.
+As soon as you have a chosen venue and secured date, make sure to register and promote the meetup as soon as possible so that others will be aware of it. Share the newly created meetup with your network as well as the Nervos Community.
 
 There are several scheduling resources to choose from:
 
@@ -179,7 +179,7 @@ In order to make people aware of your event, you will need to create an event pa
 
 - Always update your events page with any changes that might occur.
 - We recommend that you reach out to attendees with reminders, updates, or teasers.
-- In addition to the platform you are using for hosting the main event page, we recommend broad use of social media to promote your event and attract even more participants (see the MakerDAO socials above)—don't forget to link the URL from your main event page!
+- In addition to the platform you are using for hosting the main event page, we recommend broad use of social media to promote your event and attract even more participants (see the Nervos socials above)—don't forget to link the URL from your main event page!
 - Incentive members to bring their friends along. 
 - Collaborate with other Meetup organizers and run events together. Groups must be complementary.
 
