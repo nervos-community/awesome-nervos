@@ -225,7 +225,7 @@ Don't forget to check if the venue allows for food and drinks!
 
 # **Community Meetup Form**
 
-Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOtcZ8o3VZmek).
+Fill out and submit the [**Community Meetup Form**]().
 
 ### _Questions on the form:_
 
@@ -256,7 +256,7 @@ Fill out and submit the [**Community Meetup Form**](https://airtable.com/shr4HOt
 
 # Feedback Form
 
-Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k55l) after your event.
+Fill out and submit the [**Feedback Form**]() after your event.
 
 ## _Questions on the form:_
 
