@@ -1,14 +1,6 @@
 # Let's Meetup
 
-This document is intended as a guide on how Nervos community members can organize, find funding for, and host a Community Meetup. It covers four major steps: 
-
-[Planning and Organizing](#Planning-and-Organizing)
-
-[Requesting Funds](#Requesting-funds)
-
-[Hosting the Meetup](#Hosting-the-Meetup)
-
-[Post-Event Process](#Post-Event-Process)
+This document is intended as a guide on how Nervos community members can organize, find funding for, and host a Community Meetup. It covers four major steps: [Planning and Organizing](#Planning-and-Organizing), [Requesting Funds](#Requesting-funds), [Hosting the Meetup](#Hosting-the-Meetup), [Post-Event Process](#Post-Event-Process).
 
 Requesting funds from the Community Development Initiative is optional, feel free to use this as a general resource. Join our [Nervos Buidl Community](https://t.me/joinchat/IpZ4EBYx6PP1-FgIG1EVUw) on Telegram to get more support.
 
@@ -57,7 +49,7 @@ There are several things to keep in mind when planning to host a community meetu
 
 ------
 
-# **General Process Overview**
+# Let's Meetup
 
 > Start a meetup only because the better future.
 
@@ -287,3 +279,7 @@ Fill out and submit the [**Feedback Form**](https://airtable.com/shr6Icuj6tOy0k5
 2. What would you have done differently if you could redo the event?
 3. Any feedback come from attendees?
 4. any new ideas?
+
+---
+
+this file is fork from Maker Community, thanks to their great job.
